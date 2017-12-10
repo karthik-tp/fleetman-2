@@ -1,7 +1,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
 
-<h1>Vehicles page</h1>
+<h1>Vehicles page (Updated)!NIKIL!</h1>
 
 <ul>
 <c:forEach items="${vehicles}" var="vehicle">
