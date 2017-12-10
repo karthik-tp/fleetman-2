@@ -92,7 +92,7 @@
 
   - name: Install Config Server as a startup service
     service:
-            name: webapp
+            name: microservice
             state: started
             enabled: yes
     become: true
